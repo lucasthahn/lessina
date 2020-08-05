@@ -1,0 +1,3 @@
+[submodule "extern/JUCE"]
+	path = extern/JUCE
+	url = git@github.com:lucasthahn/JUCE.git
